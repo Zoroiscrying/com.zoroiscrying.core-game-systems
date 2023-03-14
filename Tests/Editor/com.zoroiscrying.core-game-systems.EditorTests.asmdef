@@ -1,0 +1,22 @@
+{
+    "name": "com.zoroiscrying.core-game-systems.Editor.Tests",
+    "rootNamespace": "",
+    "references": [
+        "com.zoroiscrying.core-game-systems",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

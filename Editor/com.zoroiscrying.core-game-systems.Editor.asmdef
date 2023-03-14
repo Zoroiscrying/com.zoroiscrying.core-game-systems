@@ -1,0 +1,19 @@
+{
+    "name": "com.zoroiscrying.core-game-systems.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:309145627511d3b40ade4709be68b76f",
+        "GUID:f220f9767a7a93e47a4d1b20e438255e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
